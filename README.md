@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Run
 python infer.py \
-  --image VLM_Scenario-image.jpeg \
-  --prompt "sharp object" \
+  --image pen.jpeg \
+  --prompt "plant" \
   --patch-size 124 \
   --threshold 0.6 
